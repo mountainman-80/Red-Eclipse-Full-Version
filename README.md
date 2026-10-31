@@ -267,4 +267,4 @@ This repository serves as the official landing page for Red Eclipse. The softwar
 **Get the most recent version of Red Eclipse today!**
 
 ---
-**Last updated:** 2026-10-31 15:39:07 UTC
+**Last updated:** 2026-10-31 19:48:47 UTC
